@@ -1,9 +1,9 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 
 # Quick Reference for Available Solutions
-- **Linear Regression** (Exercise 1)
-- **Logistic Regression, Regularization and Vectorized Implementation** (Exercise 2)
-- **Multi-Class Classification and Neural Networks** (Exercise 3)
+1. **Linear Regression**
+2. **Logistic Regression, Regularization and Vectorized Implementation**
+3. **Multi-Class Classification and Neural Networks**
 
 # Python Programming Assignments
 
