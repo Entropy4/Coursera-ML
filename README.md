@@ -1,6 +1,6 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 
-# Quick Reference for Available Solutions
+## Quick Reference for Available Solutions
 1. **Linear Regression**
 2. **Logistic Regression, Regularization and Vectorized Implementation**
 3. **Multi-Class Classification and Neural Networks**
