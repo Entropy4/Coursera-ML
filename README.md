@@ -4,6 +4,7 @@
 1. **Linear Regression**
 2. **Logistic Regression, Regularization and Vectorized Implementation**
 3. **Multi-Class Classification and Neural Networks**
+4. **Neural Network Learning**
 
 # Python Programming Assignments
 
