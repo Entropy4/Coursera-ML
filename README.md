@@ -7,6 +7,7 @@
 4. **Neural Network Learning**
 5. **Regularized Linear Regression and Bias vs Variance**
 6. **Support Vector Machines**
+7. **K-Means Clustering and Principal Component Analysis**
 
 # Python Programming Assignments
 
