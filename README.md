@@ -1,6 +1,6 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 
-## Quick Reference for Available Solutions
+## Quick Reference for All Solutions
 1. **Linear Regression**
 2. **Logistic Regression, Regularization and Vectorized Implementation**
 3. **Multi-Class Classification and Neural Networks**
@@ -8,6 +8,7 @@
 5. **Regularized Linear Regression and Bias vs Variance**
 6. **Support Vector Machines**
 7. **K-Means Clustering and Principal Component Analysis**
+8. **Anomaly Detection and Recommender Systems**
 
 # Python Programming Assignments
 
